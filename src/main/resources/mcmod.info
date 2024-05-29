@@ -1,0 +1,23 @@
+{
+  "modListVersion": 2,
+  "modList": [
+    {
+      "modid": "lumenized",
+      "name": "Lumenized",
+      "description": "Lumenized is a mod that extracts the luminous function of GTCEu.\nLumenized 是一个提取了 GTCEu 的发光功能的模组。",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "https://github.com/NovaEngineering-Source/Lumenized",
+      "updateUrl": "",
+      "authorList": [
+        "Kasumi_Nova"
+      ],
+      "credits": "",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": [],
+      "requiredMods": [],
+      "useDependencyInformation": true
+    }
+  ]
+}
