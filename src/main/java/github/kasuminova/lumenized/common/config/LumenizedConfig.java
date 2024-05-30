@@ -51,9 +51,9 @@ public class LumenizedConfig {
 
     @Config.Comment({ "Bloom Strength",
             "OUTPUT = BACKGROUND + BLOOM * {strength} * (base + LT + (1 - BACKGROUND_BRIGHTNESS)*(HT-LT)))",
-            "Default: 2" })
+            "Default: 1.25" })
     @Config.RangeDouble(min = 0)
-    public static double strength = 2;
+    public static double strength = 1.25;
 
     @Config.Comment({ "Blur Step (bloom range)", "Default: 1" })
     @Config.RangeDouble(min = 0)
